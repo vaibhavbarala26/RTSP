@@ -1,4 +1,3 @@
-![Screenshot 2024-10-07 194518](https://github.com/user-attachments/assets/a375d7fd-3731-4307-86ba-1ac9a4e573bc)# Video Overlay and Streaming Service
 
 This application allows users to manage text and image overlays on video streams, as well as start and stop streaming from RTSP sources. It uses Flask as the backend framework and MongoDB for data storage.
 
