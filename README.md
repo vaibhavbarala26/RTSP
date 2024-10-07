@@ -38,3 +38,5 @@ This application allows users to manage text and image overlays on video streams
 ![Screenshot 2024-10-07 194545](https://github.com/user-attachments/assets/729a15c6-1530-4776-b665-5d28347c4cef)
 ![Screenshot 2024-10-07 194553](https://github.com/user-attachments/assets/5787b732-cc25-43ae-afe7-41cfc042fbfe)
 ![Screenshot 2024-10-07 194559](https://github.com/user-attachments/assets/d63108bc-957d-4fd6-a369-e4a299f42cfc)
+![Screenshot 2024-10-07 200320](https://github.com/user-attachments/assets/60da4353-079b-4c95-a4b1-ed31760a0544)
+![Screenshot 2024-10-07 200326](https://github.com/user-attachments/assets/9a8f851a-55d7-4257-ae84-7e367d967f96)
